@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github.com/zhenapril6/rsschool-cv/blob/a14641ff64f1910e2e7e55038e154c9e0b64ecde/cv.md
+https://github.com/zhenapril6/rsschool-cv/blob/e5ff7d3fc440da606f1fb24bf4f71cdabd69738e/cv.md
